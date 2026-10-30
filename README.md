@@ -1,4 +1,4 @@
-# jedha-dts-getaround-schemas
+# ml-deployment-getaround-schemas
 
 This module is a shared Python package that defines data models and validation schemas used across different compenents of the getaround ecosystem.
 
