@@ -6,7 +6,7 @@ This repo is imported as git submodule into git repos that need it.
 
 To add this package as a git submodule of another git repo
 
-* git submodule add https://github.com/your-username/jedha-dts-getaround-schemas.git getaround-schemas
+* git submodule add https://github.com/your-username/ml-deployment-getaround-schemas.git getaround-schemas
 
 * git submodule update --init --recursive
 
